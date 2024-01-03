@@ -8,5 +8,14 @@ links:
     url: /permalink
   - title: Industries
     url: /permalink
+  - title: Assistance & Licensing
+    url: /permalink
+    sublinks: []
+  - title: Trade Events & Resources
+    url: /permalink
+    sublinks: []
+  - title: Career
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
