@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: About STB
+    url: /example-page/
+  - title: Media Centre
+    collection: example-folder
+  - title: Statistic & Marketing Insights
+    url: /permalink
+  - title: Industries
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
