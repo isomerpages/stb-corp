@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - folder-page.md
-      - example-subfolder/2024 Singapore Events.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
