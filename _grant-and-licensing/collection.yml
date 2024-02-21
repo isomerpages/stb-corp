@@ -1,0 +1,4 @@
+collections:
+  grant-and-licensing:
+    output: true
+    order: []
