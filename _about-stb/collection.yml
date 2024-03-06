@@ -2,5 +2,6 @@ collections:
   about-stb:
     output: true
     order:
+      - Careers.md
       - Who We Are.md
       - Board Members.md
