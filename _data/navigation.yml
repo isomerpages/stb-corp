@@ -5,8 +5,8 @@ links:
   - title: Assistance & Licensing
     url: /permalink
     sublinks:
-      - title: New submenu
-        url: /permalink
+      - title: test
+        url: /permalinktest
   - title: Trade Events & Resources
     url: /permalink
     sublinks: []
@@ -14,3 +14,5 @@ links:
     collection: media-centre
   - title: Contact Us
     url: /contact-us/
+  - title: Industries
+    collection: industries
