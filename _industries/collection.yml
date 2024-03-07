@@ -1,0 +1,10 @@
+collections:
+  industries:
+    output: true
+    order:
+      - Attraction.md
+      - Arts & Entertainment.md
+      - Cruise.md
+      - Dine & Retail/Overview Dine & Retail.md
+      - Dine & Retail/.keep
+      - Dine & Retail/Made with Passion.md
