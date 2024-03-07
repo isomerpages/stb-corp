@@ -2,6 +2,7 @@ collections:
   industries:
     output: true
     order:
+      - Dine & Retail/.keep
       - Dine & Retail.md
       - Cruise.md
       - Arts & Entertainment.md
