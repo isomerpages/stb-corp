@@ -1,4 +1,5 @@
 collections:
   industries:
     output: true
-    order: []
+    order:
+      - Arts & Entertainment.md
