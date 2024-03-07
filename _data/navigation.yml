@@ -1,23 +1,16 @@
 logo: /images/stb_logo.svg
 links:
-  - title: About STB
-    url: /example-page/
   - title: Media Centre
     collection: media-centre
-  - title: Statistic & Marketing Insights
-    url: /permalink
-  - title: Industries
-    url: /permalink
   - title: Assistance & Licensing
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: New submenu
+        url: /permalink
   - title: Trade Events & Resources
-    url: /permalink
-    sublinks: []
-  - title: Career
     url: /permalink
     sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: New folder
-    collection: grant-and-licensing
+  - title: About STB
+    collection: about-stb
