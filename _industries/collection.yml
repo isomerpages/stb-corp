@@ -2,7 +2,7 @@ collections:
   industries:
     output: true
     order:
-      - Dine & Retail/Made with Passion.md
-      - Dine & Retail/.keep
-      - Cruise.md
       - Arts & Entertainment.md
+      - Cruise.md
+      - Dine & Retail/.keep
+      - Dine & Retail/Made with Passion.md
