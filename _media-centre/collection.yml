@@ -1,0 +1,8 @@
+collections:
+  media-centre:
+    output: true
+    order:
+      - 2024 Singapore Events.md
+      - folder-page.md
+      - example-subfolder/.keep
+      - example-subfolder/subfolder-page.md
