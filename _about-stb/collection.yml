@@ -2,6 +2,7 @@ collections:
   about-stb:
     output: true
     order:
+      - What We Do/.keep
       - Careers/Students.md
       - Careers/.keep
       - Who We Are.md
