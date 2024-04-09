@@ -1,4 +1,5 @@
 collections:
   programmes-and-resources:
     output: true
-    order: []
+    order:
+      - example-page.md
