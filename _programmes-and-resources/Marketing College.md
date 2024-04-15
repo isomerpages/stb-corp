@@ -30,3 +30,12 @@ tourism marketers.</p>
 </tbody>
 </table>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>tates</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>asdasda</p>
+</div>
+</details>
+</div>
+<p></p>
