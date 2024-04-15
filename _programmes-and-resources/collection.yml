@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Marketing College.md
+      - Marketing College/Learn about Marketing.md
       - Marketing College/.keep
       - example-page.md
