@@ -2,4 +2,5 @@ collections:
   programmes-and-resources:
     output: true
     order:
+      - Marketing College/.keep
       - example-page.md
