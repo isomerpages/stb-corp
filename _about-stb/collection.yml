@@ -2,10 +2,11 @@ collections:
   about-stb:
     output: true
     order:
+      - What We Do/What We Do.md
+      - What We Do/Marketing Singapore.md
+      - What We Do/.keep
       - What We Do/ASEAN Tourism Strategic Plan.md
       - What We Do/Accessing Quality Tourism.md
-      - What We Do/What We Do.md
-      - What We Do/.keep
-      - Careers/Students.md
       - Careers/.keep
+      - Careers/Students.md
       - Who We Are.md
