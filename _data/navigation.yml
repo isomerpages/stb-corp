@@ -2,6 +2,8 @@ logo: /images/stb_logo.svg
 links:
   - title: About STB
     collection: about-stb
+  - title: STB Events
+    collection: about-stb
   - title: Industries
     collection: industries
   - title: Assistance & Licensing
@@ -9,10 +11,14 @@ links:
     sublinks:
       - title: test
         url: /permalinktest
-  - title: Trade Events & Resources
+  - title: How We Help
     url: /permalink
     sublinks: []
-  - title: Media And Publications
+  - title: Programme and Resources
     collection: media-and-publications
+  - title: How We Help
+    collection: about-stb
   - title: Contact Us
     url: /contact-us/
+  - title: New resource room
+    resource_room: true
