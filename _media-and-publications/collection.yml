@@ -1,5 +1,5 @@
 collections:
-  media-centre:
+  media-and-publications:
     output: true
     order:
       - 2024 Singapore Events.md
