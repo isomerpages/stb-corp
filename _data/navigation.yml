@@ -6,19 +6,14 @@ links:
     collection: about-stb
   - title: Industries
     collection: industries
+  - title: Work with Us
+    collection: about-stb
   - title: Assistance & Licensing
     url: /permalink
     sublinks:
       - title: test
         url: /permalinktest
-  - title: How We Help
-    url: /permalink
-    sublinks: []
   - title: Programme and Resources
     collection: media-and-publications
-  - title: How We Help
-    collection: about-stb
-  - title: Contact Us
-    url: /contact-us/
-  - title: New resource room
+  - title: Media and Publications
     resource_room: true
