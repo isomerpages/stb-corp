@@ -1,5 +1,5 @@
 collections:
-  programmes-and-resources-ertyh:
+  programmes-and-resources:
     output: true
     order:
       - TCube/.keep
