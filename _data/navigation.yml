@@ -2,17 +2,15 @@ logo: /images/stb_logo.svg
 links:
   - title: About STB
     collection: about-stb
+  - title: STB Events
+    collection: events
   - title: Industries
     collection: industries
-  - title: Assistance & Licensing
-    url: /permalink
-    sublinks:
-      - title: test
-        url: /permalinktest
-  - title: Trade Events & Resources
-    url: /permalink
-    sublinks: []
-  - title: Media Centre
-    collection: media-centre
-  - title: Contact Us
-    url: /contact-us/
+  - title: Work with Us
+    collection: how-we-help
+  - title: Programme and Resources
+    collection: media-and-publications
+  - title: Grant and Licensing
+    collection: grant-and-licensing
+  - title: Media and Publications
+    resource_room: true
