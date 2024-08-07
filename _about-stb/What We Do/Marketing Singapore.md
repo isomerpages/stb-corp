@@ -28,7 +28,7 @@ of enterprise and determination that tirelessly pursues possibilities and
 reinvention.</p>
 <h4><strong>Our Brand Campaign – Made in Singapore</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=nn_T8TROF6mrhbkb"></iframe>
+<iframe width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=MLMRnsBjN8csTfDb"></iframe>
 </div>
 <p>Anchored on<em> Passion Made Possible</em>, the latest <em>Made in Singapore (MIS) </em>master
 brand campaign spotlights Singapore as a destination where ordinary moments
@@ -91,6 +91,23 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><u>Link 1</u>
