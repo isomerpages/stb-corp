@@ -2,12 +2,12 @@ logo: /images/stb_logo.svg
 links:
   - title: About STB
     collection: about-stb
-  - title: STB Events
+  - title: Events
     collection: events
-  - title: Industries
-    collection: industries
   - title: Work with Us
     collection: how-we-help
+  - title: Industries
+    collection: industries
   - title: Programme and Resources
     collection: media-and-publications
   - title: Grant and Licensing
