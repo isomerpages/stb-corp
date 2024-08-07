@@ -84,35 +84,10 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 <img style="width: 5%;" height="auto" width="100%" alt="Find out more" src="/images/CG_FOM1_v2.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>Find Out More</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
