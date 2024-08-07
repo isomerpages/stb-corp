@@ -26,7 +26,7 @@ the authentic Singaporean identity while inspiring travel. It embodies
 Singapore's distinctive ethos and mindset: a passion-driven, resolute spirit
 of enterprise and determination that tirelessly pursues possibilities and
 reinvention.</p>
-<h4><strong>Our Brand Campaign – Made in Singapore xxx</strong></h4>
+<h4><strong>Our Brand Campaign – Made in Singapore</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=rZpOBM0LMhxg51Uw"></iframe>
 </div>
