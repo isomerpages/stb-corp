@@ -4,13 +4,13 @@ links:
     collection: about-stb
   - title: Events
     collection: events
-  - title: Work with Us
+  - title: Partnerships
     collection: how-we-help
   - title: Industries
     collection: industries
-  - title: Programme and Resources
-    collection: media-and-publications
-  - title: Grant and Licensing
+  - title: Licensing & Support
     collection: grant-and-licensing
+  - title: Learning Resources
+    collection: media-and-publications
   - title: Media and Publications
     resource_room: true
