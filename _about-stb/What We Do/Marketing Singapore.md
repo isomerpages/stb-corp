@@ -87,7 +87,7 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 </tr>
 </tbody>
 </table>
-<p>rtnership with&nbsp;industry and community</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
