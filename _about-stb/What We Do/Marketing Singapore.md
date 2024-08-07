@@ -67,9 +67,8 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 <p></p>
 <p><strong>Find Out More</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -77,12 +76,12 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="Find out more" src="/images/CG_FOM1_v2.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/stb_logo.svg">
 </div>
+<p></p>
 </th>
-<th rowspan="1" colspan="2">
-<p><strong>Find Out More</strong>
-</p>
+<th rowspan="1" colspan="1">
+<p>Find Out More</p>
 </th>
 </tr>
 </tbody>
@@ -102,14 +101,16 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Find Out More</p>
+<p>Find Out More Find Out More Find Out More Find Out More Find Out More
+Find</p>
 </th>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p></p>
+<p><strong>Find Out More</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><u>Link 1</u>
