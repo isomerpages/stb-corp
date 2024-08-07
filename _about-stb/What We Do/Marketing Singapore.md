@@ -7,7 +7,7 @@ description: Singapore Tourism Board’s marketing strategy focuses on data-driv
   Singapore.
 third_nav_title: What We Do
 ---
-<h1>Marketing Singapore as a Destination</h1>
+<h2>Marketing Singapore as a Destination</h2>
 <p>Singapore Tourism Board (STB)'s vision for Destination Singapore is to
 build on its foundational strengths to achieve agile, bold, and creative
 destination marketing that delivers results. Leveraging a strong foundation
@@ -19,14 +19,14 @@ a destination.</p>
 to ensure our data-informed marketing efforts support our longer-term tourism
 strategy while remaining well-positioned to cater to the future needs of
 travellers.</p>
-<h2>Telling a great Singapore story</h2>
-<h3><strong>Our Brand – Passion Made Possible</strong></h3>
+<h3>Telling a great Singapore story</h3>
+<h4><strong>Our Brand – Passion Made Possible</strong></h4>
 <p>Singapore’s destination brand, <em>Passion Made Possible (PMP)</em>, reflects
 the authentic Singaporean identity while inspiring travel. It embodies
 Singapore's distinctive ethos and mindset: a passion-driven, resolute spirit
 of enterprise and determination that tirelessly pursues possibilities and
 reinvention.</p>
-<h3><strong>Our Brand Campaign – Made in Singapore</strong></h3>
+<h4><strong>Our Brand Campaign – Made in Singapore</strong></h4>
 <p><strong>&lt;Embed MIS<a href="https://www.youtube.com/watch?v=kij3n1iikKc" rel="noopener noreferrer nofollow" target="_blank"> <u>YT video</u></a>&gt; Made in Singapore Master Brand Campaign</strong>
 </p>
 <p>Anchored on<em> Passion Made Possible</em>, the latest <em>Made in Singapore (MIS) </em>master
@@ -38,7 +38,7 @@ Singapore, creating a holiday filled with wonder for travellers.&nbsp;</p>
 <p>Underpinned by the MIS master brand campaign, STB will develop a series
 of MIS global positioning campaigns focusing on various themes to support
 a mix of products and experiences for varied travellers.</p>
-<h2>Targeting the right fans</h2>
+<h3>Targeting the right fans</h3>
 <p>​​To achieve quality tourism, we pursue a yield-driven marketing approach,
 focusing on five high-yield target segments: Active Silvers, Early Careers,
 Established Careers, Families with Young Kids, and Business Travellers.</p>
@@ -48,7 +48,7 @@ the prevalent travel types globally, based on their unique interests, motivation
 and behaviours. With a deep understanding of these travellers, we continually
 refine our targeting approach by tailoring content delivery across various
 platforms to optimise campaign effectiveness.</p>
-<h2>Enhancing our delivery</h2>
+<h3>Enhancing our delivery</h3>
 <p>To keep pace with evolving consumption habits, we continuously optimise
 our existing channels and invest in innovative approaches to showcase Singapore
 in creative ways, reaching a wider audience and inspiring travel to Singapore.
@@ -65,7 +65,7 @@ Singapore offers, STB has and will continue to explore strategic co-investment
 marketing partnerships with stakeholders in the tourism and related industries.</p>
 <p><strong>Find Out More</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><u>Link 1</u>
 </p>
