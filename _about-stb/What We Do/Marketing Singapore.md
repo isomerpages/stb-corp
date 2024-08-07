@@ -81,4 +81,3 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 </li>
 </ul>
 <p></p>
-<p>continue to bring alive the Passion Made Possible brand.​​</p>
