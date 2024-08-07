@@ -7,7 +7,7 @@ description: Singapore Tourism Board’s marketing strategy focuses on data-driv
   Singapore.
 third_nav_title: What We Do
 ---
-<h3>Marketing Singapore as a Destination</h3>
+<h2>Marketing Singapore as a Destination</h2>
 <p>Singapore Tourism Board (STB)'s vision for Destination Singapore is to
 build on its foundational strengths to achieve agile, bold, and creative
 destination marketing that delivers results. Leveraging a strong foundation
@@ -19,8 +19,8 @@ a destination.</p>
 to ensure our data-informed marketing efforts support our longer-term tourism
 strategy while remaining well-positioned to cater to the future needs of
 travellers.</p>
-<h2>Telling a great Singapore story</h2>
-<h3><strong>Our Brand – Passion Made Possible</strong></h3>
+<h3>Telling a great Singapore story</h3>
+<h4><strong>Our Brand – Passion Made Possible</strong></h4>
 <p>Singapore’s destination brand, <em>Passion Made Possible (PMP)</em>, reflects
 the authentic Singaporean identity while inspiring travel. It embodies
 Singapore's distinctive ethos and mindset: a passion-driven, resolute spirit
