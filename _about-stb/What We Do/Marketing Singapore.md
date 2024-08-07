@@ -66,7 +66,7 @@ Singapore offers, STB has and will continue to explore strategic co-investment
 marketing partnerships with stakeholders in the tourism and related industries.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Find out more" src="/images/CG_FOM1_v2.png">
+<img style="width: 5%;" height="auto" width="100%" alt="Find out more" src="/images/CG_FOM1_v2.png">
 </div>
 <p><strong>Find Out More</strong>
 </p>
