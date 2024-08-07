@@ -7,20 +7,28 @@ description: Singapore Tourism Board’s marketing strategy focuses on data-driv
   Singapore.
 third_nav_title: What We Do
 ---
-<h3><strong>Our Environment</strong></h3>
+<h3>Marketing Singapore as a Destination</h3>
+<p>Singapore Tourism Board (STB)'s vision for Destination Singapore is to
+build on its foundational strengths to achieve agile, bold, and creative
+destination marketing that delivers results. Leveraging a strong foundation
+of increased global brand recognition, digital capabilities, and strategic
+partnerships, STB continues to future-proof Singapore’s desirability as
+a destination.</p>
+<p>Our Marketing Strategy focuses on revitalising the three strategic thrusts
+– <strong>Story</strong>, <strong>Fans</strong>, and <strong>Delivery</strong> –
+to ensure our data-informed marketing efforts support our longer-term tourism
+strategy while remaining well-positioned to cater to the future needs of
+travellers.</p>
+<h2>Telling a great Singapore story</h2>
+<h3><strong>Our Brand – Passion Made Possible</strong></h3>
+<p>Singapore’s destination brand, <em>Passion Made Possible (PMP)</em>, reflects
+the authentic Singaporean identity while inspiring travel. It embodies
+Singapore's distinctive ethos and mindset: a passion-driven, resolute spirit
+of enterprise and determination that tirelessly pursues possibilities and
+reinvention.</p>
 <p></p>
-<p>Destination Singapore faces a very challenging marketing environment today.
-The consumer is becoming more technologically-savvy, distracted and consequently
-more demanding. Disruption is fast becoming the millennial norm and yet
-there is a rapidly growing grey segment, resulting in a dichotomy of worlds
-and explosion in developments.</p>
-<p>Meanwhile, destinations in the region, and around the world, are stepping
-up their game with new tourism attractions and increased marketing investments.
-Against this highly competitive scene, Singapore faces a multitude of resource
-constraints while continuing to battle entrenched misperception issues.
-There is a greater need for Destination Singapore to sharpen our marketing
-efforts in order to realise Singapore’s ambitions in continuing to grow
-tourism receipts (TR) and visitor arrivals (VA) in the next few years.</p>
+<p></p>
+<p>=============</p>
 <p>It is clear, however, that traditional marketing is no longer enough to
 cut through the clutter. Marketing efforts by the Singapore Tourism Board
 (STB) and Singapore travel industry have evolved over the years in scope,
