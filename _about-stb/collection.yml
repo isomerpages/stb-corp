@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Who We Are/.keep
-      - Who We Are.md
       - What We Do/.keep
       - What We Do/Role of STB.md
       - What We Do/Marketing Singapore.md
