@@ -78,7 +78,6 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/stb_logo.svg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Find Out More</p>
@@ -98,7 +97,6 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/stb_logo.svg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Find Out More Find Out More Find Out More Find Out More Find Out More
