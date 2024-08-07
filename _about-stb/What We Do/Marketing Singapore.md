@@ -102,7 +102,7 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Uses "card grid" to have image and text side by side</p>
+<p>Find Out More</p>
 </th>
 </tr>
 </tbody>
