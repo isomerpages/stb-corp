@@ -29,6 +29,7 @@ reinvention.</p>
 <h4><strong>Our Brand Campaign – Made in Singapore</strong></h4>
 <p><strong>&lt;Embed MIS<a href="https://www.youtube.com/watch?v=kij3n1iikKc" rel="noopener noreferrer nofollow" target="_blank"> <u>YT video</u></a>&gt; Made in Singapore Master Brand Campaign</strong>
 </p>
+<p></p>
 <p>Anchored on<em> Passion Made Possible</em>, the latest <em>Made in Singapore (MIS) </em>master
 brand campaign spotlights Singapore as a destination where ordinary moments
 are made extraordinary. Underscoring Singapore’s key attributes – an inspiring
