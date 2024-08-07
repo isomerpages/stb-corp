@@ -2,7 +2,6 @@ collections:
   about-stb:
     output: true
     order:
-      - STB Owned Assets Logo & Symbol/.keep
       - Who We Are/.keep
       - Who We Are/Overview.md
       - Who We Are/Our Team.md
@@ -12,5 +11,6 @@ collections:
       - What We Do/Industry and Capability Development.md
       - What We Do/Industry Regulation.md
       - Media & Publications/.keep
+      - STB Owned Assets Logo & Symbol/.keep
       - Careers/.keep
       - Careers/Students.md
