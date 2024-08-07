@@ -27,8 +27,6 @@ Singapore's distinctive ethos and mindset: a passion-driven, resolute spirit
 of enterprise and determination that tirelessly pursues possibilities and
 reinvention.</p>
 <h4><strong>Our Brand Campaign – Made in Singapore</strong></h4>
-<p><strong>&lt;Embed MIS<a href="https://www.youtube.com/watch?v=kij3n1iikKc" rel="noopener noreferrer nofollow" target="_blank"> <u>YT video</u></a>&gt; Made in Singapore Master Brand Campaign</strong>
-</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=MLMRnsBjN8csTfDb"></iframe>
 </div>
