@@ -87,6 +87,27 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 </tr>
 </tbody>
 </table>
+<p>rtnership with&nbsp;industry and community</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stb_logo.svg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Uses "card grid" to have image and text side by side</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
