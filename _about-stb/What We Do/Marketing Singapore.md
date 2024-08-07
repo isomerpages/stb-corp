@@ -28,7 +28,7 @@ of enterprise and determination that tirelessly pursues possibilities and
 reinvention.</p>
 <h4><strong>Our Brand Campaign – Made in Singapore</strong></h4>
 <div class="iframe-wrapper">
-<iframe width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=MLMRnsBjN8csTfDb"></iframe>
+<iframe height="422" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=GiU3jx97KsJnKWAE"></iframe>
 </div>
 <p>Anchored on<em> Passion Made Possible</em>, the latest <em>Made in Singapore (MIS) </em>master
 brand campaign spotlights Singapore as a destination where ordinary moments
