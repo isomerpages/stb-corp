@@ -1,5 +1,5 @@
 collections:
-  about-stb:
+  about-stb-2:
     output: true
     order:
       - Who We Are/.keep
