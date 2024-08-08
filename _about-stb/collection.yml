@@ -2,4 +2,5 @@ collections:
   about-stb:
     output: true
     order:
+      - What We Do/.keep
       - Who We Are/.keep
