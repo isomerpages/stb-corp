@@ -1,7 +1,0 @@
-collections:
-  about-stb-2:
-    output: true
-    order:
-      - Who We Are/.keep
-      - Who We Are/Overview.md
-      - Who We Are/Our Team.md
