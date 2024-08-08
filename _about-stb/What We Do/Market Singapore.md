@@ -54,12 +54,12 @@ platforms to optimise campaign effectiveness.</p>
 our existing channels and invest in innovative approaches to showcase Singapore
 in creative ways, reaching a wider audience and inspiring travel to Singapore.
 This includes collaborating with media companies, celebrities and influencers
-to create compelling content and immersive experiences. We utilise branded
-entertainment partnerships across film, television, music, and gaming.
-We also venture into the Metaverse, through channels such as Roblox, the
-world’s largest Metaverse gaming platform, to reimagine Singapore’s iconic
-attractions within a playful virtual world and foster a connection with
-Destination Singapore through interactive exploration.</p>
+to create compelling content and immersive experiences.</p>
+<p>We utilise branded entertainment partnerships across film, television,
+music, and gaming. We also venture into the Metaverse, through channels
+such as Roblox, the world’s largest Metaverse gaming platform, to reimagine
+Singapore’s iconic attractions within a playful virtual world and foster
+a connection with Destination Singapore through interactive exploration.</p>
 <p>To amplify marketing impact, build destination awareness, drive visitor
 arrivals to Singapore and facilitate the discovery of experiences that
 Singapore offers, STB has and will continue to explore strategic co-investment
