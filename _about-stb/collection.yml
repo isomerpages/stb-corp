@@ -2,9 +2,9 @@ collections:
   about-stb:
     output: true
     order:
-      - Who We Are/Our Team.md
-      - Who We Are/Overview.md
       - Who We Are/.keep
+      - Who We Are/Overview.md
+      - Who We Are/Our Team.md
       - What We Do/.keep
       - Media & Publications/.keep
       - STB Brand Assets.md
