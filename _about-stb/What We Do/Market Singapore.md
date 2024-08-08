@@ -19,14 +19,14 @@ a destination.</p>
 to ensure our data-informed marketing efforts support our longer-term tourism
 strategy while remaining well-positioned to cater to the future needs of
 travellers.</p>
-<h3>Telling a great Singapore story</h3>
-<h4><strong>Our Brand – Passion Made Possible</strong></h4>
+<h3><strong>Telling a great Singapore story</strong></h3>
+<h4>Our Brand – Passion Made Possible</h4>
 <p>Singapore’s destination brand, <em>Passion Made Possible (PMP)</em>, reflects
 the authentic Singaporean identity while inspiring travel. It embodies
 Singapore's distinctive ethos and mindset: a passion-driven, resolute spirit
 of enterprise and determination that tirelessly pursues possibilities and
 reinvention.</p>
-<h4><strong>Our Brand Campaign – Made in Singapore</strong></h4>
+<h4>Our Brand Campaign – Made in Singapore</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=rZpOBM0LMhxg51Uw"></iframe>
 </div>
@@ -39,7 +39,7 @@ Singapore, creating a holiday filled with wonder for travellers.&nbsp;</p>
 <p>Underpinned by the MIS master brand campaign, STB will develop a series
 of MIS global positioning campaigns focusing on various themes to support
 a mix of products and experiences for varied travellers.</p>
-<h3>Targeting the right fans</h3>
+<h3><strong>Targeting the right fans</strong></h3>
 <p>​​To achieve quality tourism, we pursue a yield-driven marketing approach,
 focusing on five high-yield target segments: Active Silvers, Early Careers,
 Established Careers, Families with Young Kids, and Business Travellers.</p>
@@ -49,7 +49,7 @@ the prevalent travel types globally, based on their unique interests, motivation
 and behaviours. With a deep understanding of these travellers, we continually
 refine our targeting approach by tailoring content delivery across various
 platforms to optimise campaign effectiveness.</p>
-<h3>Enhancing our delivery</h3>
+<h3><strong>Enhancing our delivery</strong></h3>
 <p>To keep pace with evolving consumption habits, we continuously optimise
 our existing channels and invest in innovative approaches to showcase Singapore
 in creative ways, reaching a wider audience and inspiring travel to Singapore.
