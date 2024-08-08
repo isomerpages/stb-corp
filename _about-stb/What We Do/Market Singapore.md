@@ -85,6 +85,25 @@ marketing partnerships with stakeholders in the tourism and related industries.<
 </tr>
 </tbody>
 </table>
+<p>The following is a resize of the above image to 10%</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/stb_logo.svg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Find Out More</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
