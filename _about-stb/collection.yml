@@ -1,0 +1,4 @@
+collections:
+  about-stb:
+    output: true
+    order: []
