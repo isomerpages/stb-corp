@@ -35,6 +35,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/hero-banner.png
   - infopic:
       title: Infopic
       subtitle: Add an image and text
