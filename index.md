@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Passion Made Possible
       subtitle: A vibrant and inspiring destination Singapore that we are proud of​.
-      background: /images/hero-banner.png
+      background: /images/hero_image_1920x720.jpg
       button: ABOUT STB
       url: /contact-us/
       key_highlights:
