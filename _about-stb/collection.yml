@@ -2,10 +2,10 @@ collections:
   about-stb:
     output: true
     order:
-      - Who We Are/Test Page.md
       - Who We Are/.keep
       - Who We Are/Overview.md
       - Who We Are/Our Team.md
+      - Who We Are/Test Page.md
       - What We Do/Role of STB.md
       - What We Do/Marketing Singapore.md
       - What We Do/Industry and Capability Development.md
