@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Tourism Industry Conference 24/Tourism Industry  Conference.md
       - Tourism Industry Conference 24/.keep
       - World Expo Osaka.md
