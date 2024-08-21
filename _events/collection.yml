@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Tourism Industry Conference/.keep
       - World Expo Osaka.md
