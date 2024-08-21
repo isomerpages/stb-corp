@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - World Expo Osaka.md
       - Tourism Industry  Conference.md
