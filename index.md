@@ -25,12 +25,10 @@ sections:
         - title: CAREERS AT STB
           description: Opportunities With Us
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: Latest News
+      id: resources
+      button: All New Releases
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -39,6 +37,12 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/hero-banner.png
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
   - infopic:
       title: Infopic
       subtitle: Add an image and text
