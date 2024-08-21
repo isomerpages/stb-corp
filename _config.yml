@@ -2,8 +2,8 @@ title: STB Corporate Website
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#800079"
-  secondary-color: "#fd8f59"
+  primary-color: "#11817a"
+  secondary-color: "#11817a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
