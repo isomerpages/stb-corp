@@ -30,10 +30,10 @@ sections:
       id: resources
       button: All New Releases
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Industries
       id: infopic
-      description: Infopic description
+      description: STB works closely with industry players to strengthen Singapore’s
+        position as a leading destination through the creation of high impact.
       button: Button Text
       alt: Image alt text
       image: /images/hero-banner.png
