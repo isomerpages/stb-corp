@@ -7,21 +7,24 @@ permalink: /
 notification: Here's a notification bar you can use
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Passion Made Possible
+      subtitle: A vibrant and inspiring destination Singapore that we are proud of​.
       background: /images/hero-banner.png
-      button: Contact Us
+      button: ABOUT STB
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: GRANTS
+          description: Tourism Development Fund
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: LICENSING
+          description: Tourism Licensing
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: LEARNING RESOURCES
+          description: Learn With STB
           url: /privacy/
+        - title: CAREERS AT STB
+          description: Opportunities With Us
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
