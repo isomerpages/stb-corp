@@ -35,45 +35,34 @@ sections:
       id: infopic
       description: STB works closely with industry players to strengthen Singapore’s
         position as a leading destination through the creation of high impact.
-      button: Button Text
+      button: Read More
       alt: Image alt text
-      image: /images/hero-banner.png
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      image: /images/industries_image_720x405.jpg
+      url: https://www.stb.gov.sg/content/stb/en.html
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Partnerships
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: STB is calling for industry stakeholders to partner with us to
+        market Singapore.
+      button: Read More
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      image: /images/Parnership_720x405.jpg
+      url: https://www.stb.gov.sg/content/stb/en.html
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Quick Links
       id: textcards
-      description: Text card description
       cards:
-        - title: Card
-          description: Card description
+        - title: Visit Singapore - Tourist Information
+          description: Explore the vibrant cultures and rich heritage of Singapore.
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Singapore Tourism Analytics Network (Stan)
+          description: Stan allows users to gain access to the latest tourism data in
+            visualisations.
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Visit Singapore - MICE
+          description: MICE destination for remarkable and unforgettable business events.
           linktext: Learn more
           url: ""
 ---
