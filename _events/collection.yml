@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Tourism Industry Conference 2024.md
       - Tourism Industry Conference/.keep
       - World Expo Osaka.md
