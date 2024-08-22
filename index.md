@@ -12,19 +12,6 @@ sections:
       background: /images/hero_image_1920x720.jpg
       button: ABOUT STB
       url: /contact-us/
-      key_highlights:
-        - title: GRANTS
-          description: Tourism Development Fund
-          url: https://google.com
-        - title: LICENSING
-          description: Tourism Licensing
-          url: https://gmail.com
-        - title: LEARNING RESOURCES
-          description: Learn With STB
-          url: /privacy/
-        - title: CAREERS AT STB
-          description: Opportunities With Us
-          url: ""
       variant: center
   - resources:
       title: Latest News
