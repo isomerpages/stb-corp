@@ -12,3 +12,5 @@ links:
     collection: licensing-and-support
   - title: Learning Resources
     collection: media-and-publications
+  - title: Media
+    resource_room: true
