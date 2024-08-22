@@ -35,6 +35,20 @@ sections:
       alt: Image alt text
       image: /images/Parnership_720x405.jpg
       url: https://www.stb.gov.sg/content/stb/en.html
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Quick Links
       id: textcards
