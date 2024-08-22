@@ -5,21 +5,27 @@ variant: tiptap
 description: ""
 third_nav_title: Who We Are
 ---
+<h1>Title 1</h1>
+<h1>Heading 1</h1>
+<h3>Heading 2</h3>
+<h4>Heading 3</h4>
+<p>Paragraph</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Accordion 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Accordion 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Accordion 3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
