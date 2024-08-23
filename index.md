@@ -42,9 +42,10 @@ sections:
       id: infopic
       description: STB Marketing College enhances tourism marketing skills with a
         focused learning program designed to sharpen your competitive edge.
-      button: Button Text
+      button: READ MORE
       alt: Image alt text
       image: /images/homepage_image_720x405_2.jpg
+      url: https://www.stb.gov.sg/content/stb/en.html
   - infopic:
       title: Careers at STB
       id: infopic
