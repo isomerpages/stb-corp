@@ -32,8 +32,6 @@ third_nav_title: Who We Are
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <h4>Video</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=rmtcAwtHH10s0Lzp"></iframe>
