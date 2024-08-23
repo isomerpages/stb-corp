@@ -2,6 +2,8 @@ logo: /images/stb_logo.svg
 links:
   - title: About Stb
     collection: about-stb
+  - title: Media
+    resource_room: true
   - title: Events
     collection: events
   - title: Partnerships
@@ -12,5 +14,3 @@ links:
     collection: licensing-and-support
   - title: Learning Resources
     collection: media-and-publications
-  - title: Media
-    resource_room: true
