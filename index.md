@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Passion Made Possible
       subtitle: A vibrant and inspiring destination Singapore that we are proud of​.
-      background: /images/hero_image_1920x720.jpg
+      background: /images/hero_image_1920x720_2.jpg
       button: ABOUT STB
       url: /contact-us/
       variant: center
@@ -18,37 +18,42 @@ sections:
       id: resources
       button: All New Releases
   - infopic:
-      title: Industries
+      title: Grants
       id: infopic
-      description: STB works closely with industry players to strengthen Singapore’s
-        position as a leading destination through the creation of high impact.
+      description: STB unveils a new four-year Tourism Development Fund (TDF),
+        designed to catalyse the creation of innovative and quality tourism
+        products and experiences.
       button: Read More
+      alt: Image alt text
+      image: /images/homepage_image_720x405_1.jpg
+      url: https://www.stb.gov.sg/content/stb/en.html
+  - infopic:
+      title: Licensing
+      id: infopic
+      description: STB offers assistance in the form of various grant schemes, tax
+        incentives and resources, and issues licenses for tourism-related
+        industries and events
+      button: Read More
+      alt: Image alt text
+      image: /images/homepage_image_720x405_4.jpg
+      url: https://www.stb.gov.sg/content/stb/en.html
+  - infopic:
+      title: Learning Resources
+      id: infopic
+      description: STB Marketing College enhances tourism marketing skills with a
+        focused learning program designed to sharpen your competitive edge.
+      button: Button Text
+      alt: Image alt text
+      image: /images/homepage_image_720x405_2.jpg
+  - infopic:
+      title: Careers at STB
+      id: infopic
+      description: Our programs offer structured training and initiatives designed to
+        equip you with a well-rounded set of skills for career growth.
+      button: READ MORE
       alt: Image alt text
       image: /images/industries_image_720x405.jpg
-      url: https://www.stb.gov.sg/content/stb/en.html
-  - infopic:
-      title: Partnerships
-      id: infopic
-      description: STB is calling for industry stakeholders to partner with us to
-        market Singapore.
-      button: Read More
-      alt: Image alt text
-      image: /images/Parnership_720x405.jpg
-      url: https://www.stb.gov.sg/content/stb/en.html
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      url: https://www.visitsingapore.com/mice/en/
   - textcards:
       title: Quick Links
       id: textcards
@@ -56,14 +61,14 @@ sections:
         - title: Visit Singapore - Tourist Information
           description: Explore the vibrant cultures and rich heritage of Singapore.
           linktext: Learn more
-          url: ""
+          url: https://www.visitsingapore.com/en/
         - title: Singapore Tourism Analytics Network (Stan)
           description: Stan allows users to gain access to the latest tourism data in
             visualisations.
           linktext: Learn more
-          url: ""
+          url: https://stan.stb.gov.sg/content/stan/en/home.html
         - title: Visit Singapore - MICE
           description: MICE destination for remarkable and unforgettable business events.
           linktext: Learn more
-          url: ""
+          url: https://www.visitsingapore.com/mice/en/
 ---
