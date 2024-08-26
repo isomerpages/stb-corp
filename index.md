@@ -25,7 +25,7 @@ sections:
         products and experiences.
       button: Read More
       alt: Image alt text
-      image: /images/homepage_image_720x405_1.jpg
+      image: /images/homepage_image_720x405_6.jpg
       url: https://www.stb.gov.sg/content/stb/en.html
   - infopic:
       title: Licensing
