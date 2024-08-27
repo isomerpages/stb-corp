@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Who We Are
 ---
-<h2>Heading 1</h2>
-<h3>Heading 2</h3>
-<h4>Heading 3</h4>
+<h2><strong>Heading 1</strong></h2>
+<h3><strong>Heading 2</strong></h3>
+<h4><strong>Heading 3</strong></h4>
 <p>Paragraph</p>
 <p></p>
 <h4>Accordion</h4>
