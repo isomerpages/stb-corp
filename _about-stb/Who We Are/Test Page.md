@@ -9,6 +9,28 @@ third_nav_title: Who We Are
 <h3><strong>Heading 2</strong></h3>
 <h4><strong>Heading 3</strong></h4>
 <p>Paragraph</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bullet point</p>
+</li>
+<li>
+<p>Bullet point</p>
+</li>
+<li>
+<p>Bullet point</p>
+</li>
+</ul>
+<ol data-tight="true" class="tight">
+<li>
+<p>Numbering</p>
+</li>
+<li>
+<p>Numbering</p>
+</li>
+<li>
+<p>Numbering</p>
+</li>
+</ol>
 <p></p>
 <h4><strong>Accordion</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
