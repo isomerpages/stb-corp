@@ -15,19 +15,37 @@ third_nav_title: Who We Are
 <details class="isomer-details">
 <summary>Accordion 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This is the first item's accordion body. It is shown by default, until
+the collapse plugin adds the appropriate classes that we use to style each
+element. These classes control the overall appearance, as well as the showing
+and hiding via CSS transitions. You can modify any of this with custom
+CSS or overriding our default variables. It's also worth noting that just
+about any HTML can go within the .accordion-body, though the transition
+does limit overflow.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Accordion 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This is the first item's accordion body. It is shown by default, until
+the collapse plugin adds the appropriate classes that we use to style each
+element. These classes control the overall appearance, as well as the showing
+and hiding via CSS transitions. You can modify any of this with custom
+CSS or overriding our default variables. It's also worth noting that just
+about any HTML can go within the .accordion-body, though the transition
+does limit overflow.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Accordion 3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This is the first item's accordion body. It is shown by default, until
+the collapse plugin adds the appropriate classes that we use to style each
+element. These classes control the overall appearance, as well as the showing
+and hiding via CSS transitions. You can modify any of this with custom
+CSS or overriding our default variables. It's also worth noting that just
+about any HTML can go within the .accordion-body, though the transition
+does limit overflow.</p>
 </div>
 </details>
 </div>
