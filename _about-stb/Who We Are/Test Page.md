@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Who We Are
 ---
-<h1>Title 1</h1>
 <h2>Heading 1</h2>
 <h3>Heading 2</h3>
 <h4>Heading 3</h4>
