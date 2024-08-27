@@ -62,8 +62,9 @@ third_nav_title: Who We Are
 </div>
 <p></p>
 <h4>Table</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -75,25 +76,46 @@ third_nav_title: Who We Are
 <th rowspan="1" colspan="1">
 <p>Column 2</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Column 3</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>sfsfs</p>
+<p>Row 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Row 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Row 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Row 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Row 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Row 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Row 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Row 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Row 3</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>Video</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kij3n1iikKc?si=rmtcAwtHH10s0Lzp"></iframe>
