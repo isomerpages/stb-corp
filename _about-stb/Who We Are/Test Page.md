@@ -20,6 +20,7 @@ third_nav_title: Who We Are
 <p>Bullet point</p>
 </li>
 </ul>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Numbering</p>
@@ -31,7 +32,6 @@ third_nav_title: Who We Are
 <p>Numbering</p>
 </li>
 </ol>
-<p></p>
 <h4><strong>Accordion</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
