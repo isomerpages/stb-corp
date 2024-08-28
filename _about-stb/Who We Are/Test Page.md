@@ -32,6 +32,8 @@ third_nav_title: Who We Are
 <p>Numbering</p>
 </li>
 </ol>
+<p><a href="https://www.stb.gov.sg/content/stb/en.html" rel="noopener nofollow" target="_blank">Hyperlink</a>
+</p>
 <h4><strong>Accordion</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
