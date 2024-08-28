@@ -21,7 +21,7 @@ third_nav_title: Who We Are
 </li>
 </ul>
 <p></p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Numbering</p>
 </li>
@@ -31,9 +31,12 @@ third_nav_title: Who We Are
 <li>
 <p>Numbering</p>
 </li>
-</ol>
+</ul>
 <p><a href="https://www.stb.gov.sg/content/stb/en.html" rel="noopener nofollow" target="_blank">Hyperlink</a>
 </p>
+<p><a href="/files/STB___Home_Page.pdf" rel="noopener nofollow" target="_blank">Download PDF</a>
+</p>
+<p></p>
 <h4><strong>Accordion</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -74,6 +77,9 @@ does limit overflow.</p>
 </details>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/homepage_image_720x405_6.jpg">
+</div>
 <h4><strong>Card with image</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
