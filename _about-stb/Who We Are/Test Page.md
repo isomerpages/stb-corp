@@ -21,7 +21,7 @@ third_nav_title: Who We Are
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Numbering</p>
 </li>
@@ -31,7 +31,7 @@ third_nav_title: Who We Are
 <li>
 <p>Numbering</p>
 </li>
-</ul>
+</ol>
 <p><a href="https://www.stb.gov.sg/content/stb/en.html" rel="noopener nofollow" target="_blank">Hyperlink</a>
 </p>
 <p><a href="/files/STB___Home_Page.pdf" rel="noopener nofollow" target="_blank">Download PDF</a>
