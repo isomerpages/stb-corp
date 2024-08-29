@@ -53,7 +53,7 @@ sections:
         equip you with a well-rounded set of skills for career growth.
       button: READ MORE
       alt: Image alt text
-      image: /images/industries_image_720x405.jpg
+      image: /images/homepage_image_720x405_5.jpg
       url: https://www.visitsingapore.com/mice/en/
   - textcards:
       title: Quick Links
