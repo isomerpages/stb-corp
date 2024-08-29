@@ -34,8 +34,9 @@ third_nav_title: Who We Are
 </ol>
 <p><a href="https://www.stb.gov.sg/content/stb/en.html" rel="noopener nofollow" target="_blank">Hyperlink</a>
 </p>
-<p><a href="/files/STB___Home_Page.pdf" rel="noopener nofollow" target="_blank">Download PDF</a>
+<p><a href="/files/STB___Home_Page.pdf" rel="noopener nofollow" target="_blank">Download File (Only PDF)</a>
 </p>
+<p></p>
 <p></p>
 <h4><strong>Accordion</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
